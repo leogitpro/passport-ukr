@@ -1,32 +1,13 @@
 {
-  "name": "passport-oauth2",
-  "version": "1.6.1",
+  "name": "passport-ukr",
+  "version": "1.0.0",
   "description": "OAuth 2.0 authentication strategy for Passport.",
   "keywords": [
     "passport",
-    "auth",
-    "authn",
-    "authentication",
-    "authz",
-    "authorization",
-    "oauth",
     "oauth2"
   ],
   "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "http://www.jaredhanson.net/"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/jaredhanson/passport-oauth2.git"
-  },
-  "bugs": {
-    "url": "http://github.com/jaredhanson/passport-oauth2/issues"
-  },
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/jaredhanson"
+    "name": "Leo"
   },
   "license": "MIT",
   "licenses": [
